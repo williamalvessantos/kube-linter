@@ -9,7 +9,7 @@ require (
 	github.com/golangci/golangci-lint v1.42.1
 	github.com/mitchellh/mapstructure v1.4.2
 	github.com/openshift/api v3.9.0+incompatible
-	github.com/owenrumney/go-sarif v1.0.11
+	github.com/owenrumney/go-sarif/v2 v2.0.17
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
@@ -17,9 +17,9 @@ require (
 	github.com/stretchr/testify v1.7.0
 	helm.sh/helm/v3 v3.7.0
 	honnef.co/go/tools v0.2.1
-	k8s.io/api v0.22.2
-	k8s.io/apimachinery v0.22.2
-	k8s.io/cli-runtime v0.22.2
-	k8s.io/client-go v0.22.2
+	k8s.io/api v0.23.3
+	k8s.io/apimachinery v0.23.3
+	k8s.io/cli-runtime v0.23.3
+	k8s.io/client-go v0.23.3
 	k8s.io/gengo v0.0.0-20210915205010-39e73c8a59cd
 )
